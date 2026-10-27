@@ -1,6 +1,6 @@
 # 扶持 (fuchi) — maintainer sustenance allocator
 
-Canonical repository: `etzhayyim/actor-fuchi`.
+Canonical repository: `cloud-itonami/actor-fuchi`.
 
 Fuchi is a governed allocation organ of the Tamaki artificial organism, not an
 independent fund or decision authority. It computes and routes dry-run in-kind
